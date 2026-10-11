@@ -1,3 +1,5 @@
+>[!IMPORTANT]
+>Ariadne is being rewritten in Rust by hand. Changes to this repository are frozen.
 # Ariadne Mod Manager 🧶
 
 An opinionated mod manager for games on both Windows and Linux (WIP), Ariadne brings all the benefits of a traditional list-based mod manager while stripping away the complexity. All while keeping mod files isolated with VFS for easy installs, uninstalls, and profile switching. 
